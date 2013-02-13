@@ -1,1 +1,7 @@
-This file was created by JetBrains RubyMine 4.5.4 for binding GitHub repository
+Minecraft Raspberry Pi Edition Ruby API
+
+This is an extremely early commit of my work on a Minecraft API client library.
+
+See test.rb for usage examples.
+
+Comments on architecture are welcomed!
